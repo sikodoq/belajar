@@ -2,3 +2,5 @@ Resolusi
 - Harus bisa belajar
 - Membuat platform kepegawaian
 - Membuat platform keuangan
+- Membuat video
+- Mebuat web ecommerce

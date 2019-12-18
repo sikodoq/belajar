@@ -3,4 +3,4 @@ Resolusi
 - Membuat platform kepegawaian
 - Membuat platform keuangan
 - Membuat video
-- Mebuat web ecommerce
+- Membuat platform surat
